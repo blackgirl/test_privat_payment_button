@@ -22,8 +22,8 @@
 		cursor: pointer;
 	}
 	.button-payment:hover {
-		box-shadow: none;
-		text-shadow: none;
+		box-shadow: 1px 1px 2px 0 gray;
+		text-shadow: gray 1px 1px;
 	}
 	.button-description {
 		font-size:14px;
