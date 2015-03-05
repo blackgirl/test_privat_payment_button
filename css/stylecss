@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700,400&subset=latin,cyrillic);
+
+.button-wrapper {
+	margin: 2em auto;
+	text-align:center
+}
+.injected-form {
+	display:inline-block
+	font-family: 'Open Sans', sans-serif;
+} 
+	.button-payment {
+		width: 160px;
+		height: 50px;
+		font-size: 18px;
+		background-color: #7cb330;
+		border-radius: 25px;
+		border: none;
+		color: #fff;
+		text-shadow: #000 1px 1px;
+		background-image: none;
+		box-shadow: 1px 1px 4px 0 #000;
+	}
+	.button-description {
+		font-size:14px;
+		margin:2em 0;
+		color:#747381;
+	}
