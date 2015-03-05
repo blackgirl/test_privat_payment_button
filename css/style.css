@@ -19,6 +19,11 @@
 		text-shadow: #000 1px 1px;
 		background-image: none;
 		box-shadow: 1px 1px 4px 0 #000;
+		cursor: pointer;
+	}
+	.button-payment:hover {
+		box-shadow: none;
+		text-shadow: none;
 	}
 	.button-description {
 		font-size:14px;
